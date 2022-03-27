@@ -6,14 +6,14 @@ Scripts to experiment with calling product prices from the Solana Pyth.Network
 
 ## Development
 
-Testing file
+Compile the testing to a .js
 ```
 tsc test_script.ts
 ```
 
-Execution file
+Execution the compilor generated .js file
 ```
-node test_script.ts
+node test_script.js
 ```
 
 ## Setting up
